@@ -192,43 +192,24 @@
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- GitHub Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ddihora1604&show_icons=true&theme=tokyonight&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ddihora1604&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ddihora1604&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddihora1604&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
+<!-- Trophies -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddihora1604&layout=compact&theme=tokyonight&count_private=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ddihora1604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
+<!-- Top contributions -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ddihora1604&theme=tokyonight&margin-w=10"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=ddihora1604&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_contributor_rank=false" />
 </p>
-
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=ddihora1604&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ddihora1604&icon=0&color=0"/>
 </p>
