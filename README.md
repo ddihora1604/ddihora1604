@@ -213,3 +213,8 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+<p align = "center">
+	<img src="https://raw.githubusercontent.com/ddihora1604/ddihora1604/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
