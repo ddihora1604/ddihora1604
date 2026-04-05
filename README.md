@@ -192,29 +192,25 @@
 
 ---
 
-<!-- GitHub Stats -->
+## 📊 GitHub Insights
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ddihora1604&theme=tokyonight&hide_border=true&background=0d1117&border_radius=15" width="48%" />
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddihora1604&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddihora1604&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-trophies.vercel.app/?username=ddihora1604&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddihora1604&amp;theme=tokyo-night&amp;hide_border=true" />
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ddihora1604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
-
-<!-- Top contributions -->
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ddihora1604&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_contributor_rank=false" />
-</p>
-
-## 🐍 A Snake Eating my Contributions Graph
-	
+<!-- Snake Game -->
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align = "center">
-	<img src="https://raw.githubusercontent.com/ddihora1604/ddihora1604/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Every%20program%20has%20(at%20least)%20two%20purposes:%20the%20one%20for%20which%20it%20was%20written%20and%20another%20for%20which%20it%20wasn't.&author=Alan%20Perlis&border=true&bg_color=0d1117&text_color=58a6ff&author_color=8b949e">
 </p>
-
