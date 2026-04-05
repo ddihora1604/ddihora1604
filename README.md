@@ -1,36 +1,30 @@
 <h1 align="center">Hi, I'm Darshan Dihora! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=900&height=100&lines=AI+%26+Data+Science+Student;AI/ML+Enthusiast;Tech+Innovator;Exploring+in+the+world+of+business+and+technology;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=00D1FF&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Student;AI%2FML+Enthusiast+%7C+Tech+Innovator;Exploring+in+the+world+of+business+and+technology;Always+learning+new+things!" alt="Typing SVG" />
 </p>
-
----
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="400"/>
+<img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" height="400" width="300"/>
 
 <br>
 
 - :school: I am a `B.Tech Student` in [Artificial Intelligence (AI) and Data Science Department](https://www.djsce.ac.in/ug-artificial-intelligence-ai-data-science) at [SVKM's Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/).
 - :technologist: I am an AI/ML Enthusiast. I love using software as a solution for every `Problem`. I am dedicated to learning and exploring in the world of business and technology!
 - :student: All my experiences and Projects can be viewed here: [MY RESUME](https://drive.google.com/file/d/1MW0tEEcyTtPPavmKqLxFFleHw51ijjVa/view?usp=sharing).
-- :computer: You can visit [MY PORTFOLIO](https://ddportfolio-six.vercel.app/).
+- :computer: You can visit [MY PORTFOLIO](https://ddportfolio-six.vercel.app/), and [MY YOUTUBE CHANNEL](https://www.youtube.com/@DarshanDihora).
 <br>
-
----
 
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:ddihora1604@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/ddihora1604"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/darshandihora/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/ddihora1604"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/darshan.dihora/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
----
 
 ## 🛠️ My Skills
 
