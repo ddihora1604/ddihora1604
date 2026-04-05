@@ -12,7 +12,7 @@
 
 - :school: I am a `B.Tech Student` in [Artificial Intelligence (AI) and Data Science Department](https://www.djsce.ac.in/ug-artificial-intelligence-ai-data-science) at [SVKM's Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/).
 - :technologist: I am an AI/ML Enthusiast. I love using software as a solution for every `Problem`. I am dedicated to learning and exploring in the world of business and technology!
-- :student: All my experiences and Projects can be viewed here: [MY RESUME](https://drive.google.com/file/d/1MW0tEEcyTtPPavmKqLxFFleHw51ijjVa/view?usp=sharing).
+- :student: All my Experiences and Projects can be viewed here: [MY RESUME](https://drive.google.com/file/d/1MW0tEEcyTtPPavmKqLxFFleHw51ijjVa/view?usp=sharing).
 - :computer: You can visit [MY PORTFOLIO](https://ddportfolio-six.vercel.app/), and [MY YOUTUBE CHANNEL](https://www.youtube.com/@DarshanDihora).
 <br>
 
