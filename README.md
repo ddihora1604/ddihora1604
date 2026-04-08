@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Darshan Dihora! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=00D1FF&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Student;AI%2FML+Enthusiast+%7C+Tech+Innovator;Exploring+in+the+world+of+business+and+technology;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=00D1FF&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Engineer;AI%2FML+Enthusiast+%7C+Tech+Innovator;Exploring+in+the+world+of+business+and+technology;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
